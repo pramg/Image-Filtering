@@ -1,0 +1,19 @@
+# Compiled executables
+*.exe
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Generated images
+output.pgm
+output.ppm
+output.png
+
+# Benchmark output
+benchmark_results.csv
